@@ -46,7 +46,7 @@
             }
         }
         .textFooter {
-            font-size: 1rem;
+            font-size: 0.8rem;
         }
     }
 }
@@ -64,7 +64,7 @@
         .imgIndex {
             gap: 2%;
             border-radius: 8%;
-            width: 15rem;
+            height: 15rem;
         }
     }
     .Footer {
@@ -77,9 +77,9 @@
             .iconos {
                 width: 3rem;
             }
-            .textFooter {
-            font-size: 1.5rem;
-            }
         }
+        .textFooter {
+            font-size: 1rem;
+            }
     }
 }
