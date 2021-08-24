@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2? family = Open + Sans: ital, wght @ 0,600; 1,300; 1,400 & display = swap");
+@import "index";
+@import "contacto";
+@import "productos";
+@import "mediaq";
+
+/*variables*/
+$bgcolor:#d6cfcf;
+$bgBarras:#d7bda3;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background:$bgcolor;
+}
+.barraNav {
+    background-color:$bgBarras;
+    .logoNav {
+        width: 8rem;
+    }
+    .textNav {
+        font-size: 1rem;
+    }
+}
+
+
+
+

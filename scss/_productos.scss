@@ -1,0 +1,27 @@
+.titleProducto{
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+.productos{
+    margin-left: 5%;
+    .catalogo{
+        width: 90%;
+        justify-self: center;
+        .catalogoProductos{
+            width: 100%;
+        }
+    }
+    .descCatalogo{
+        width: 80%;
+        margin-left: 2%;
+        font-family: "Open Sans", sans-serif;
+        font-style: oblique;
+        font-size: 0,5rem;
+        h2{
+            margin-top: 5%;
+        }
+    }    
+}
+
+

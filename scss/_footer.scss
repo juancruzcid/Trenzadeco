@@ -1,0 +1,34 @@
+.Footer {
+    width: 100%;
+    background-color:#d7bda3;
+    margin-top: 5%;
+    .redes {
+        width: 100%;
+        text-decoration: none;
+        color: black;
+        font-size: 0.8rem;
+        font-style: italic;
+        font-weight: 500;
+        a {
+            margin-left: 25%;
+            text-decoration: none;
+            color: black;
+            font-size: 0.8rem;
+            font-style: italic;
+            font-weight: 500;
+            transition: all 250ms ease;
+            &:hover{
+                color: #77563e;
+            }
+        }
+        .iconos {
+            margin-left: 5%;
+            width: 2rem;
+        }
+    }
+    .textFooter {
+        font-family: cursive;
+        font-size: small;
+        margin-left: 5%;
+    }
+}
