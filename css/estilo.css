@@ -20,7 +20,6 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-bottom: 40%;
   margin-left: 25%;
   display: -ms-grid;
   display: grid;
@@ -81,7 +80,7 @@
 .Footer {
   width: 100%;
   background-color: #d7bda3;
-  margin-top: 5%;
+  margin-top: 60%;
 }
 
 .Footer .redes {
@@ -125,7 +124,6 @@
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    margin-bottom: 5%;
     margin-left: 25%;
     display: -ms-grid;
     display: grid;
@@ -137,6 +135,9 @@
     gap: 2%;
     border-radius: 8%;
     width: 15rem;
+  }
+  .Footer {
+    margin-top: 10%;
   }
 }
 
@@ -159,6 +160,9 @@
     gap: 2%;
     border-radius: 8%;
     width: 15rem;
+  }
+  .Footer {
+    margin-top: 8%;
   }
   .Footer .redes {
     font-size: 1rem;
@@ -195,6 +199,9 @@
     border-radius: 8%;
     height: 15rem;
   }
+  .Footer {
+    margin-top: 5%;
+  }
   .Footer .redes {
     font-size: 1.5rem;
   }
@@ -219,7 +226,7 @@
 }
 
 body {
-  background: #d6cfcf;
+  background: #ebe4e4;
 }
 
 .barraNav {
